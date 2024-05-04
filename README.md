@@ -1,4 +1,4 @@
-![clouddevbrian com Architecture](https://github.com/clouddevbrian/cloudresumechallenge-frontend/assets/166995717/d213899c-b088-4450-a3e4-2c86f1f3c147)
+![clouddevbrian com Architecture](https://github.com/clouddevbrian/cloudresumechallenge-backend/assets/166995717/faac6cbd-112e-41bb-a5ad-4d482a9f111c)
 Having completed lots of pretty tough labs and tutorials, I knew it was time to put all my knowledge together in an end-to-end project.\
 With only a few days free to get this completed before I would be on Holiday, I got cracking.
 
